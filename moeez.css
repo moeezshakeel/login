@@ -1,0 +1,73 @@
+body {
+    background: url(https://wallpapercave.com/wp/NOwAGtc.jpg);
+    background-size: cover;
+    font-family: snas- serif;
+}
+.container{
+    width: 40%;
+    margin: auto;
+    overflow: hidden;
+    padding: Irem;
+    background-color: #fff;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 7%;
+
+}
+
+/*for :horizontal line*/
+hr {
+    width: 80%;
+}
+
+.fb {
+    padding: 0.srem 2rem;
+    color: #fff;
+    background-color: #426782;
+    border: none;
+    border-radius: 5px;
+}
+
+a {
+    text-decoration:none;
+}
+
+.container input {
+    padding: 0.srem;
+    width: 70%;
+}
+
+.container input[type=checkbox]{
+    width: auto;
+}
+
+.btn {
+    padding:Irem;
+    background-color: #2ecc71;
+    font-size: Irem;
+    width: 50%;
+    border-radius: 7px;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
